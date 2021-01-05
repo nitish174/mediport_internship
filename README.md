@@ -1,2 +1,2 @@
 # mediport_internship
-I made the medical test form using html, then with the help of Javascript ,i made it responsive.
+During the Internship period,I made many medical test form using html,out of which ,i am putting here one test.Any person can check up their risk of corresponding test as i have used javascript to make to responsive. 
